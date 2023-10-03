@@ -1,4 +1,4 @@
-# My Library Web App
+# Book Library
 
 Welcome to My Library Web App! This is a simple yet elegant web application for managing your personal library. Easily add and track books with a user-friendly interface.
 
